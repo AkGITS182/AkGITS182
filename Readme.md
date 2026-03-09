@@ -22,12 +22,6 @@
 <a href="https://leetcode.com/u/akhandpratapsingh18/" target="blank"></a>
 </p>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=akhandpratap18" alt="akhandpratap18" />
-  </a>
-</p>
-
 
 <!--Line-->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
